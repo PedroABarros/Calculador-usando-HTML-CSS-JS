@@ -14,7 +14,6 @@
 .baseCal{
     position: absolute;
     background-color:  rgba(0, 0, 0, 0.6);
-    border: 7px, solid, snow;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -28,7 +27,7 @@
     font-size: 20px;
     cursor: pointer;
     margin: 2px;
-    background-color: #F3EFE0;
+    background-color: #fff;
     border: none;
 }
 .botao:hover{
@@ -47,11 +46,11 @@ span{
 
 p{
     width: 207px;
-    background-color: white;
+    background-color:  rgba(255, 255, 255, 0.2);
     height: 35px;
     margin: 5px;
     font-size: 20px;
-    color: black;
+    color: white;
     text-align: right;
     padding: 5px;
 }
